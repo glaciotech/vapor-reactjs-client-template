@@ -1,12 +1,3 @@
-Packages
-.build
-xcuserdata
-*.xcodeproj
-DerivedData/
-.DS_Store
-db.sqlite
+node_modules
 .swiftpm
-.env
-.env.*
-! .env.example
-.vscode
+Public/Generated
